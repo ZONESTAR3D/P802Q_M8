@@ -7,6 +7,7 @@ ZONESTAR ZRIBV5 or ZRIBV6
 Note:
 replace of the orig "LiquidCrystal" in arduion by the attached libraries before build it
 
+Document desciption:
 P802Q_M8
 |---Firmware---|Uploadtool    Firmware Upload tools 
                |.hex          Compiled Firmware file
