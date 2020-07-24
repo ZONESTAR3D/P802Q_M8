@@ -5,8 +5,9 @@ Control board:
 ZONESTAR ZRIBV5 or ZRIBV6
 
 Note:
-Compilation environment: Arduino 1.5.x or later
-replace of the orig "LiquidCrystal" in arduion by the attached libraries before build it
+1. Base on Marlin 1.1.8
+2. Compilation environment: Arduino 1.5.x or later
+3. replace of the orig "LiquidCrystal" in arduion by the attached libraries before build it
 
 Document desciption:
 P802Q_M8
