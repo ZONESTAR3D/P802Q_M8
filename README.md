@@ -11,8 +11,9 @@ Note:
   
 Document desciption:  
 P802Q_M8  
-|---Firmware---|Uploadtool    Firmware Upload tools   
-               |.hex          Compiled Firmware file  
-|---Hardware                  Wiring Diagram etc.  
-|---Source code  
++---Firmware---
+...............+Uploadtool    ;Firmware Upload tools   
+...............+.hex          ;Compiled Firmware file  
++---Hardware                  ;Wiring Diagram etc.  
++---Source code               ;firmware source code
 
